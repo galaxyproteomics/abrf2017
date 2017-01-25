@@ -3,7 +3,8 @@
 
 Please access the links indicated below for the following materials:
 
-- How to access and use the usegalaxyp.org training site: [xxxx.z.umn.edu](http://xxxx.z.umn.edu){:target"_blank"}
+'''markdown
+- How to access and use the usegalaxyp.org training site: [xxxx.z.umn.edu](http://xxxx.z.umn.edu){:target"_blank" }
 
 - Accessing an Interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow: [yyyy.z.umn.edu](http://yyyy.z.umn.edu){:target"_blank"}
 
@@ -16,4 +17,4 @@ Please access the links indicated below for the following materials:
 - Instructions on running the protein sequence database search workflow and interpreting results: [pppp.z.umn.edu](http://pppp.z.umn.edu){:target"_blank"}
 
 - Instructions for accessing workflows on the JetStream Galaxy instance: [mmmm.z.umn.edu](http://mmmm.z.umn.edu){:target"_blank"}
-
+'''
