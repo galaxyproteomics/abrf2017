@@ -16,4 +16,3 @@ Please access the links indicated below for the following materials:
 - Instructions on running the protein sequence database search workflow and interpreting results: [pppp.z.umn.edu](http://pppp.z.umn.edu)
 
 - Instructions for accessing workflows on the JetStream Galaxy instance: [mmmm.z.umn.edu](http://mmmm.z.umn.edu)
-
