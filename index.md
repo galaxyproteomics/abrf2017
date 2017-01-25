@@ -1,30 +1,18 @@
-## Welcome to GitHub Pages
+## This page provides links to instructional materials describing how to access and use the proteogenomic workflows described in the manuscript text.
 
-You can use the [editor on GitHub](https://github.com/pravs3683/CancerResearch2017/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Please access the links indicated below for the following materials:
 
-### Markdown
+- How to access and use the usegalaxyp.org training site:  xxxx.z.umn.edu
+- Accessing an Interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow:  yyyy.z.umn.edu
+- Accessing an interactive Galaxy Tour describing Dataset Collections: vvvv.z.umn.edu
+- Accessing an interactive Galaxy Tour describing the protein sequence database search workflow:  uuuuu.z.umn.edu
+- Instructions on running the RNA-seq-to-protein-database workflow:  rrrrr.z.umn.edu
+- Instructions on running the protein sequence database search workflow and interpreting results: pppp.z.umn.edu
+- Instructions for accessing workflows on the JetStream Galaxy instance: mmmm.z.umn.edu
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
