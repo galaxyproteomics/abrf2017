@@ -1,4 +1,4 @@
-# An accessible proteogenomics informatics resource for cancer researchers
+* An accessible proteogenomics informatics resource for cancer researchers *
 #### Instructions for accessing workflows and training material
 
 
