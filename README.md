@@ -1,26 +1,37 @@
-# An accessible proteogenomics informatics resource for cancer researchers
-### Instructions for accessing workflows and training material
---------------------------------------------------------------------------
+## ABRF 2017 Workshop
+
+### (SW1) The Galaxy platform for metaproteomic characterization of microbiomes
+-------------------------------------------------------------------------------
+
+**Organizers:** Pratik Jagtap and Tim Griffin, University of Minnesota
+ 
+**Instructors:** Tim Griffin, Pratik Jagtap, and James Johnson
+ 
+**Workshop Content:** 
+Metaproteomics analysis is emerging as an effective approach for identifying microorganisms and functional role of the microbiome in response to environment or host-physiology. Metaproteomics characterizes proteins expressed by microorganism communities (microbiome) present in environmental samples or a host organism. Mass spectrometry (MS)-based metaproteomics has catalyzed new discoveries into the functional dynamics of microbiomes ([Wilmes et al 2015, doi: 10.1002/pmic.201500183](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201500183/full){:target="_blank"}). Metaproteomic informatics is distinctly challenging due to the large databases and complex processing steps involved. This challenge limits widespread use of metaproteomics. Through modular workflows, we demonstrate the use of the Galaxy bioinformatics framework as a metaproteomic informatics solution. Our results demonstrate the power of discovery metaproteomics to add functional understanding to microbiomes, beyond what is possible using traditional metagenomic approaches.
+
+- Recent Galaxy-P Publications: [z.umn.edu/galaxypreferences](http://z.umn.edu/galaxypreferences){:target="_blank"}
 
 
 
-**_This page provides links to instructional materials describing how to access and use the proteogenomic workflows described in the manuscript text._**
+**Workshop Schedule:** 
+_Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)_
+ 
+- Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
+ 
+- Basics of Data Analysis and Database Search using Galaxy platform. (_Tim Griffin_)
+ 
+- Metaproteomic analysis – Exploring taxonomy of the microbiome (_James Johnson_)
+ 
+- Metaproteomic analysis - Exploring function of the microbiome (_Pratik Jagtap_)
+ 
+- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
 
 
-Please access the links indicated below for the following materials:
+**Workshop Goals:** 
 
-
-- How to access and use the usegalaxyp.org training site: [xxxx.z.umn.edu](http://xxxx.z.umn.edu)
-
-- Accessing an interactive Galaxy Tour describing the RNA-seq-to-protein-database workflow: [yyyy.z.umn.edu](http://yyyy.z.umn.edu)
-
-- Accessing an interactive Galaxy Tour describing Dataset Collections: [vvvv.z.umn.edu](http://vvvv.z.umn.edu)
-
-- Accessing an interactive Galaxy Tour describing the protein sequence database search workflow: [uuuuu.z.umn.edu](http://uuuuu.z.umn.edu)
-
-- Instructions on running the RNA-seq-to-protein-database workflow: [rrrrr.z.umn.edu](http://rrrrr.z.umn.edu)
-
-- Instructions on running the protein sequence database search workflow and interpreting results: [pppp.z.umn.edu](http://pppp.z.umn.edu)
-
-- Instructions for accessing workflows on the JetStream Galaxy instance: [mmmm.z.umn.edu](http://mmmm.z.umn.edu)
+- Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
+- Provide hands-on experience to attendees in using Galaxy
+- Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
+- Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data
 
