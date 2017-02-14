@@ -12,6 +12,7 @@ Metaproteomics analysis is emerging as an effective approach for identifying mic
 - Recent Galaxy-P Publications: [z.umn.edu/galaxypreferences](http://z.umn.edu/galaxypreferences){:target="_blank"}
 
 **Workshop Schedule:**
+
 Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)
  
 - Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
@@ -24,7 +25,8 @@ Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:
  
 - Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
  
-**Workshop Goals:**
+**Workshop Goals:** 
+
 - Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
 - Provide hands-on experience to attendees in using Galaxy
 - Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
