@@ -36,6 +36,3 @@
 - Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data
 
 
-
-
-
