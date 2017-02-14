@@ -12,7 +12,7 @@
 - Recent Galaxy-P Publications: [z.umn.edu/galaxypreferences](http://z.umn.edu/galaxypreferences){:target="blank"}
 <br>
 Workshop Schedule:
-<br> Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)
+<br> Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm).
  
 - Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
  
@@ -30,6 +30,8 @@ Workshop Schedule:
 - Provide hands-on experience to attendees in using Galaxy
 - Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
 - Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data
+
+
 
 
 
