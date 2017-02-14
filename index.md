@@ -12,7 +12,8 @@
 - Recent Galaxy-P Publications: [z.umn.edu/galaxypreferences](http://z.umn.edu/galaxypreferences){:target="_blank"}
 
 <br>
-Workshop Schedule:
+
+**Workshop Schedule:**
 <br> _Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)_
  
 - Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
