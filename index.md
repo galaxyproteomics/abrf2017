@@ -13,7 +13,8 @@ Metaproteomics analysis is emerging as an effective approach for identifying mic
 
 
 
-**Workshop Schedule:** Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)
+**Workshop Schedule:**
+Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)
  
 - Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
  
