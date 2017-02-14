@@ -21,12 +21,13 @@ Metaproteomics analysis is emerging as an effective approach for identifying mic
  
 - Metaproteomic analysis - Exploring function of the microbiome (_Pratik Jagtap_)
  
-- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_ and _James Johnson_)
+- Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
  
 **Workshop Goals:**
 - Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
 - Provide hands-on experience to attendees in using Galaxy
 - Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
 - Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data
+
 
 
