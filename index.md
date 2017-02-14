@@ -25,7 +25,9 @@
 - Metaproteomic analysis - Exploring function of the microbiome (_Pratik Jagtap_)
  
 - Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
- 
+
+<br>
+
 **Workshop Goals:** 
 <br>
 - Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
