@@ -1,6 +1,6 @@
 ## **ABRF 2017 Workshop**
 
-### (SW1) The Galaxy platform for metaproteomic characterization of microbiomes
+### **(SW1) The Galaxy platform for metaproteomic characterization of microbiomes**
 Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm) 
 
 **Instructors:** Tim Griffin, Pratik Jagtap, and James Johnson
@@ -9,7 +9,7 @@ Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm)
 
 # [<u>Register Today!</u>](https://conf.abrf.org/registration-information){:target="_blank"}
 
-#### **Not just for genomics anymore: Galaxy for proteomics and multi-omics** 
+#### ***Not just for genomics anymore: Galaxy for proteomics and multi-omics*** 
 _Did you think that Galaxy is just for genomic data analysis?  Not anymore.  Come to this workshop to learn how Galaxy can be used for proteomic data analysis, and also applications that cross the ‘omic domains.  
 With a focus on metaproteomics for characterizing microbiomes, we will help participants learn how to utilize tools for mass spectrometry-based proteomics in Galaxy.  Metaproteomics is a multi-omic approach, which characterizes proteins expressed by microorganism communities (microbiomes).  Participants will also learn how to leverage metagenomics data to generate protein sequence databases used for proteomic analysis, and utilize the protein information to gain better functional understanding of microbiomes.  In addition to receiving hands-on instruction on the use of the Galaxy platform and its implementation, participants will gain experience with the latest software tools and workflows for proteomic and metaproteomic data analysis developed via worldwide collaborative efforts._ 
 
