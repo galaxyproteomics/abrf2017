@@ -7,7 +7,7 @@ Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm)
 
 [http://conf.abrf.org/the-galaxy-platform](http://conf.abrf.org/the-galaxy-platform){:target="_blank"}
 
-# [Register Today!](https://conf.abrf.org/registration-information){:target="_blank"}
+# [<u>Register Today!</u>](https://conf.abrf.org/registration-information){:target="_blank"}
 
 #### Not just for genomics anymore: Galaxy for proteomics and multi-omics 
 _Did you think that Galaxy is just for genomic data analysis?  Not anymore.  Come to this workshop to learn how Galaxy can be used for proteomic data analysis, and also applications that cross the ‘omic domains.  
