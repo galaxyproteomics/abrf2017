@@ -1,21 +1,27 @@
 ## ABRF 2017 Workshop
 
 ### (SW1) The Galaxy platform for metaproteomic characterization of microbiomes
--------------------------------------------------------------------------------
+Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm) 
 
-**Organizers:** Pratik Jagtap and Tim Griffin, University of Minnesota
- 
 **Instructors:** Tim Griffin, Pratik Jagtap, and James Johnson
- 
-**Workshop Content:** 
-Metaproteomics analysis is emerging as an effective approach for identifying microorganisms and functional role of the microbiome in response to environment or host-physiology. Metaproteomics characterizes proteins expressed by microorganism communities (microbiome) present in environmental samples or a host organism. Mass spectrometry (MS)-based metaproteomics has catalyzed new discoveries into the functional dynamics of microbiomes ([Wilmes et al 2015, doi: 10.1002/pmic.201500183](http://onlinelibrary.wiley.com/doi/10.1002/pmic.201500183/full)). Metaproteomic informatics is distinctly challenging due to the large databases and complex processing steps involved. This challenge limits widespread use of metaproteomics. Through modular workflows, we demonstrate the use of the Galaxy bioinformatics framework as a metaproteomic informatics solution. Our results demonstrate the power of discovery metaproteomics to add functional understanding to microbiomes, beyond what is possible using traditional metagenomic approaches.
+
+[http://conf.abrf.org/the-galaxy-platform](http://conf.abrf.org/the-galaxy-platform)
+
+# [Register Today!](https://conf.abrf.org/registration-information)
+
+#### Not just for genomics anymore: Galaxy for proteomics and multi-omics 
+_Did you think that Galaxy is just for genomic data analysis?  Not anymore.  Come to this workshop to learn how Galaxy can be used for proteomic data analysis, and also applications that cross the ‘omic domains.  
+With a focus on metaproteomics for characterizing microbiomes, we will help participants learn how to utilize tools for mass spectrometry-based proteomics in Galaxy.  Metaproteomics is a multi-omic approach, which characterizes proteins expressed by microorganism communities (microbiomes).  Participants will also learn how to leverage metagenomics data to generate protein sequence databases used for proteomic analysis, and utilize the protein information to gain better functional understanding of microbiomes.  In addition to receiving hands-on instruction on the use of the Galaxy platform and its implementation, participants will gain experience with the latest software tools and workflows for proteomic and metaproteomic data analysis developed via worldwide collaborative efforts._ 
+
+**Target Audience**: _Core directors, personnel, data scientists and researchers interested in proteomics, multi-omics and microbiome research. Previous experience with Galaxy or other informatics solutions is not necessary._
+
 
 - Recent Galaxy-P Publications: [z.umn.edu/galaxypreferences](http://z.umn.edu/galaxypreferences)
 
+<br>
 
-
-**Workshop Schedule:** 
-_Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)_
+**Workshop Schedule:**
+<br> _Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1:00 pm)_
  
 - Introduction to Microbiomes and metaproteomic analysis (_Pratik Jagtap_)
  
@@ -27,11 +33,11 @@ _Saturday, March 25, 2017 (8:00 am - 12 noon; lunch is included from 12 noon - 1
  
 - Summary and Conclusion. (_Tim Griffin_, _Pratik Jagtap_, and _James Johnson_)
 
+<br>
 
 **Workshop Goals:** 
-
+<br>
 - Introduce the Galaxy framework as a solution for data analysis across ‘omics’ domains
 - Provide hands-on experience to attendees in using Galaxy
 - Demonstrate use of Galaxy for a proteogenomic analysis (RNA-seq and proteomic integrative analysis)
 - Lay the foundation for attendees to implement Galaxy at their own facility or institution to meet ‘omics’ data
-
