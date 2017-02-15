@@ -1,4 +1,4 @@
-## ABRF 2017 Workshop
+## **ABRF 2017 Workshop**
 
 ### (SW1) The Galaxy platform for metaproteomic characterization of microbiomes
 Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm) 
