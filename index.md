@@ -7,7 +7,10 @@ Saturday, March 25, 2017 (8:00 am - 12 noon; lunch from 12 noon - 1:00 pm)
 
 [http://conf.abrf.org/the-galaxy-platform](http://conf.abrf.org/the-galaxy-platform){:target="_blank"}
 
-# [<u>Register Today!</u>](https://conf.abrf.org/registration-information){:target="_blank"}
+- Accessing Galaxy instance on Globus for the SW1 Workshop: [http://z.umn.edu/howtoaccessglobus](http://z.umn.edu/howtoaccessglobus)
+- SW1 Workshop presentation slides: [http://z.umn.edu/sw1presentation](http://z.umn.edu/sw1presentation)
+- SW1 Workshop documentation: [http://z.umn.edu/sw1documentation](http://z.umn.edu/sw1documentation)
+
 
 #### ***Not just for genomics anymore: Galaxy for proteomics and multi-omics*** 
 _Did you think that Galaxy is just for genomic data analysis?  Not anymore.  Come to this workshop to learn how Galaxy can be used for proteomic data analysis, and also applications that cross the ‘omic domains.  
